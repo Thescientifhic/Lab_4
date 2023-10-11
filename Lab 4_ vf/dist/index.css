@@ -1,0 +1,11 @@
+*{
+     background-color:rgba(0, 255, 38, 0.619) ;
+     display: flex;
+     flex-wrap: wrap;
+     align-items: center;
+     justify-content: center;
+}
+
+title{
+    display: none;
+}
